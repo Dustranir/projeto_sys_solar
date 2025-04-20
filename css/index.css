@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+    padding: 20px;
+  }
+  
+
+#sistema-solar,#origem-sistema-solar,#planetas-sistema-solar,#astros-planetas-satelites, #movimento-planetas {
+    margin-bottom: 40px;
+    padding: 20px;
+    background-color: #fdfdfd;
+    border-left: 5px solid #6c5ce7;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+  }
+  
+  /* Título da seção */
+  h2 {
+    font-size: 1.8em;
+    color: #2d3436;
+    margin-bottom: 15px;
+    padding-left: 5px;
+    border-left: 4px solid #74b9ff;
+  }
+  
+  /* Subtítulos (h3) */
+   h3 {
+    font-size: 1.4em;
+    color: #0984e3;
+    margin-top: 25px;
+    margin-bottom: 10px;
+  }
+  
+  /* Parágrafos */
+   p {
+    text-align: justify;
+    margin-bottom: 20px;
+    line-height: 1.7;
+  }
+  
