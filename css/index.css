@@ -59,7 +59,11 @@ body {
 #sistema-solar,
 #origem-sistema-solar,
 #planetas-sistema-solar,
-#astros-planetas-satelites,
+#astros,
+#planetas,
+#satelites,
+#asteroides,
+#cometas,
 #movimento-planetas {
   margin-bottom: 40px;
   padding: 20px;
@@ -119,14 +123,14 @@ footer {
 .galeria-container {
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;   
-  gap: 20px;                 
+  justify-content: center;
+  gap: 20px;
   padding: 20px;
 }
 
 .item-galeria {
   width: 250px;
-  text-align: center;        
+  text-align: center;
 }
 
 .item-galeria img {
